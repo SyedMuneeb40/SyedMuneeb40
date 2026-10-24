@@ -9,7 +9,15 @@
   </a>
 </p>
 
+<!-- ================= PORTFOLIO BUTTON ================= -->
 <p align="center">
+  <a href="https://syedmuneeb.tech">
+    <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-syedmuneeb.tech-0000FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="48"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://syedmuneeb.tech"><img src="https://img.shields.io/badge/Portfolio-0000FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/syed-muneeb-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.fiverr.com/s/BR4qwB7"><img src="https://img.shields.io/badge/Hire_me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~0120ab802ad62fa5d8"><img src="https://img.shields.io/badge/Hire_me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
@@ -28,6 +36,7 @@
 I build **scalable, production-ready web applications** with clean code and solid architecture. From high-concurrency ticketing engines and e-commerce platforms to hospital management systems and AI-powered tools, I turn ideas into reliable software.
 
 - 🌍 Based in **Karachi, Pakistan**
+- 🌐 Portfolio: **[syedmuneeb.tech](https://syedmuneeb.tech)**
 - 💼 Available for **freelance & remote** projects
 - 🤖 Currently exploring **AI & Automation**
 - ⚡ Focus: performance, security, maintainable code
@@ -134,6 +143,7 @@ I build **scalable, production-ready web applications** with clean code and soli
 
 <p align="center">
   Have a project in mind? Let's build something great.<br><br>
+  <a href="https://syedmuneeb.tech"><img src="https://img.shields.io/badge/View_Portfolio-0000FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.fiverr.com/s/BR4qwB7"><img src="https://img.shields.io/badge/Order_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~0120ab802ad62fa5d8"><img src="https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/syed-muneeb-dev"><img src="https://img.shields.io/badge/Message_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
